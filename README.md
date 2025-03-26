@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+Skills and Technology
+--
 <div align="center">
 	<table>
 		<tr>
