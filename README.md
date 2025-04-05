@@ -1,8 +1,5 @@
 # Hey there, my name is Jonah Bray
 
-More Info
---
-
 Skills and Technology
 --
 <div align="center">
