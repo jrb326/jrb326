@@ -17,7 +17,7 @@ Currently a Product Data Intern at Mashura (CUBEX), where I own an end-to-end Mi
 ## Featured work
 
 **mcassetgen** · [repo](https://github.com/jrb326/mcassetgen)
-Minecraft asset generation with a fine-tuned Stable Diffusion 3.5 Large LoRA. Full training and inference pipeline in pyTorch, with a deterministic fallback resolver that keeps the safety-critical path free of model dependency.
+Minecraft asset generation with a fine-tuned Stable Diffusion 3.5 Large LoRA. Training and inference workflow documented, with example generations and LoRA checkpoints in the repo.
 
 **kilo-priority-plugin** · [repo](https://github.com/jrb326/kilo-priority-plugin)
 Per-machine request priority for LiteLLM gateways used by Kilo Code. VS Code settings UI plus a Kilo plugin, fail-closed by design.
