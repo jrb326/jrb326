@@ -1,55 +1,57 @@
-# Hey there, my name is Jonah Bray
-
-Skills and Technology
---
 <div align="center">
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="WebStorm" title="WebStorm"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" alt="Svelte" title="Svelte"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" title="Maven"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" alt="mocikto" title="mocikto"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" alt="Lombok" title="Lombok"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" title="Groovy"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></code></td>
-		</tr>
-	</table>
+
+# Jonah Bray
+
+**Software engineer · Computer Science, Lehigh University '26 · Open to full-time roles**
+
+[![Resume](https://img.shields.io/badge/Resume-resume.jonahbray.com-orange?logo=readme&logoColor=white)](https://resume.jonahbray.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonahbray-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonahbray)
+[![Email](https://img.shields.io/badge/Email-brayjonah%40gmail.com-lightgrey?logo=gmail&logoColor=white)](mailto:brayjonah@gmail.com)
+
 </div>
+
+I am Jonah Bray, a Computer Science graduate of Lehigh University (Class of '26). I work across the full stack, AI/ML, and production data engineering, and I am looking for a full-time Software Engineer role, in Seattle or US remote.
+
+Currently a Product Data Intern at Mashura (CUBEX), where I own an end-to-end Microsoft Fabric catalog program: PySpark ETL, LLM agents with human-in-the-loop approval gates, fine-tuned BERT NER, and provenance-backed release gates. Before that: .NET backend at Epilogue Systems, full-stack MERN at Bulkitrade, and systems and identity engineering for Lehigh's CSE department (Kerberos, LDAP, OAuth).
+
+## Featured work
+
+**mcassetgen** · [repo](https://github.com/jrb326/mcassetgen)
+Minecraft asset generation with a fine-tuned Stable Diffusion 3.5 Large LoRA. Full training and inference pipeline in pyTorch, with a deterministic fallback resolver that keeps the safety-critical path free of model dependency.
+
+**kilo-priority-plugin** · [repo](https://github.com/jrb326/kilo-priority-plugin)
+Per-machine request priority for LiteLLM gateways used by Kilo Code. VS Code settings UI plus a Kilo plugin, fail-closed by design.
+
+**ttb-treasury (LabelCheck)** · [repo](https://github.com/jrb326/ttb-treasury) · [live demo](https://treasury-labelcheck.jrb326.workers.dev)
+Vision-model label extraction and 27 CFR warning-compliance review on Cloudflare Workers AI. Deterministic verification on top of model transcription, batch mode for import dumps.
+
+**arliai-busyness** · [repo](https://github.com/jrb326/arliai-busyness)
+Native macOS menu-bar widget that shows live model busyness. Swift + AppKit, zero dependencies, inline time graph.
+
+**Origin-Destination ETA (class Kaggle winner)** · [repo](https://github.com/jrb326/AI4CPS-ETA-Pipeline)
+BERT-style model on route geometry, benchmarked against the 2008 SF Yellow Taxi GPS set. Won the class Kaggle competition with a PhD collaborator.
+
+## Experience
+
+- **Product Data Intern, Mashura (CUBEX)** · 2026 - present · Fabric, PySpark, LangGraph, BERT NER
+- **Junior System Administrator, Lehigh CSE** · 2025 - 2026 · Linux, Kerberos, LDAP, OAuth, Proxmox, Grafana, PXE
+- **.NET Backend Developer, Epilogue Systems** · 2025 · C#/.NET services and REST APIs
+- **Full Stack Developer, Bulkitrade** · 2025 · MERN, PostgreSQL, Azure, AWS
+
+## Skills
+
+**Languages:** Java, Kotlin, JavaScript, TypeScript, Python, SQL, C, Rust, Dart, Go
+
+**Frameworks:** React, Node.js, Express, Svelte, Next.js, Flask, .NET, Spring Boot, Flutter
+
+**Data & AI:** PyTorch, Pandas, PySpark, DuckDB, LangGraph, Azure Fabric, OneLake, Stable Diffusion/LoRA, MongoDB, Redis, PostgreSQL, MySQL
+
+**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Cloudflare, Nginx, Grafana, GitHub Actions
+
+**Security & identity:** Kerberos, LDAP, OAuth, WAF, honeypots, audit logging, least-privilege access
+
+## Find me
+
+- Resume and full history: [resume.jonahbray.com](https://resume.jonahbray.com)
+- LinkedIn: [linkedin.com/in/jonahbray](https://www.linkedin.com/in/jonahbray)
+- Email: [brayjonah@gmail.com](mailto:brayjonah@gmail.com)
