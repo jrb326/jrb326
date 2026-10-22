@@ -29,7 +29,7 @@ Vision-model label extraction and 27 CFR warning-compliance review on Cloudflare
 Native macOS menu-bar widget that shows live model busyness. Swift + AppKit, zero dependencies, inline time graph.
 
 **Origin-Destination ETA (class Kaggle winner)** · [repo](https://github.com/jrb326/AI4CPS-ETA-Pipeline)
-BERT-style model on route geometry, benchmarked against the 2008 SF Yellow Taxi GPS set. Won the class Kaggle competition with a PhD collaborator.
+Custom transformer based off of BERT trained on route geometry, benchmarked against the 2008 SF Yellow Taxi GPS set. Won the class Kaggle competition with a PhD collaborator.
 
 ## Experience
 
