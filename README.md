@@ -10,7 +10,7 @@
 
 </div>
 
-I am Jonah Bray, a Computer Science graduate of Lehigh University (Class of '26). I work across the full stack, AI/ML, and production data engineering, and I am looking for a full-time Software Engineer role, in Seattle or US remote.
+I am Jonah Bray, a Computer Science graduate of Lehigh University (Class of '26). I work across the full stack, AI/ML, and production data engineering, and I am looking for a full-time Software Engineer role, in the U.S.
 
 Currently a Product Data Intern at Mashura (CUBEX), where I own an end-to-end Microsoft Fabric catalog program: PySpark ETL, LLM agents with human-in-the-loop approval gates, fine-tuned BERT NER, and provenance-backed release gates. Before that: .NET backend at Epilogue Systems, full-stack MERN at Bulkitrade, and systems and identity engineering for Lehigh's CSE department (Kerberos, LDAP, OAuth).
 
